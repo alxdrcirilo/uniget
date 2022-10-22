@@ -1,0 +1,10 @@
+Domain[CC]	comment(DOMAIN)
+Sequence similarities	comment(SIMILARITY)
+Protein families	families
+Coiled coil	feature(COILED COIL)
+Compositional bias	feature(COMPOSITIONAL BIAS)
+Domain[FT]	feature(DOMAIN EXTENT)
+Motif	feature(MOTIF)
+Region	feature(REGION)
+Repeat	feature(REPEAT)
+Zinc finger	feature(ZINC FINGER)

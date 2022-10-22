@@ -1,0 +1,22 @@
+Absorption	comment(ABSORPTION)
+Active site	feature(ACTIVE SITE)
+Binding site	feature(BINDING SITE)
+Catalytic activity	comment(CATALYTIC ACTIVITY)
+ChEBI	chebi
+ChEBI (Catalytic activity)	chebi(Catalytic activity)
+ChEBI (Cofactor)	chebi(Cofactor)
+ChEBI IDs	chebi-id
+Cofactor	comment(COFACTOR)
+DNA binding	feature(DNA BINDING)
+EC number	ec
+Enzyme regulation	comment(ENZYME REGULATION)
+Function[CC]	comment(FUNCTION)
+Kinetics	comment(KINETICS)
+Metal binding	feature(METAL BINDING)
+Nucleotide binding	feature(NP BIND)
+Pathway	comment(PATHWAY)
+pH dependence	comment(PH DEPENDENCE)
+Redox potential	comment(REDOX POTENTIAL)
+Rhea ids	rhea-id
+Site	feature(SITE)
+Temperature dependence	comment(TEMPERATURE DEPENDENCE)

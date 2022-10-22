@@ -1,0 +1,13 @@
+Entry	id
+Entry name	entry name
+Gene names	genes
+Gene names (primary)	genes(PREFERRED)
+Gene names (synonym)	genes(ALTERNATIVE)
+Gene names (ordered locus)	genes(OLN)
+Gene names (ORF)	genes(ORF)
+Organism	organism
+Organism ID	organism-id
+Protein names	protein names
+Proteomes	proteome
+Taxonomic lineage	lineage(ALL)
+Virus hosts	virus hosts

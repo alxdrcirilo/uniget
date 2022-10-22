@@ -1,0 +1,23 @@
+Fragment	fragment
+Gene encoded by	encodedon
+Alternative products	comment(ALTERNATIVE PRODUCTS)
+Erroneous gene model prediction	comment(ERRONEOUS GENE MODEL PREDICTION)
+Erroneous initiation	comment(ERRONEOUS INITIATION)
+Erroneous termination	comment(ERRONEOUS TERMINATION)
+Erroneous translation	comment(ERRONEOUS TRANSLATION)
+Frameshift	comment(FRAMESHIFT)
+Mass spectrometry	comment(MASS SPECTROMETRY)
+Polymorphism	comment(POLYMORPHISM)
+RNA editing	comment(RNA EDITING)
+Sequence caution	comment(SEQUENCE CAUTION)
+Length	length
+Mass	mass
+Sequence	sequence
+Alternative sequence	feature(ALTERNATIVE SEQUENCE)
+Natural variant	feature(NATURAL VARIANT)
+Non-adjacent residues	feature(NON ADJACENT RESIDUES)
+Non-standard residue	feature(NON STANDARD RESIDUE)
+Non-terminal residue	feature(NON TERMINAL RESIDUE)
+Sequence conflict	feature(SEQUENCE CONFLICT)
+Sequence uncertainty	feature(SEQUENCE UNCERTAINTY)
+Sequence version	version(sequence)
