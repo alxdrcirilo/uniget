@@ -2,6 +2,8 @@
 
 UniGet is a tool written in Python used to search, filter, and fetch records from the [UniProt](https://www.uniprot.org) database.
 
+![](https://raw.githubusercontent.com/alxdrcirilo/UniGet/main/package/resources/misc/mainwindow.png)
+
 ## Notice
 This project is not actively maintained.
 
